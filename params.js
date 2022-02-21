@@ -16264,7 +16264,7 @@ params=
 "residence": 1010344
 },
 {
-"fullHouse": 30,
+"fullHouse": 35,
 "guid": 15000002,
 "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_artisan.png",
 "locaText": {
@@ -16284,6 +16284,33 @@ params=
 },
 "name": "Artisans",
 "needs": [
+{
+"guid": 120020,
+"residents": 5,
+"tpmin": null
+},
+{
+"guid": 1010200,
+"residents": 2,
+"tpmin": 0.0011111112000000006
+},
+{
+"guid": 1010216,
+"happiness": 3,
+"residents": 0,
+"tpmin": 0.0014814826666666672
+},
+{
+"guid": 1010237,
+"residents": 1,
+"tpmin": 0.001025642
+},
+{
+"guid": 1010349,
+"happiness": 6,
+"residents": 0,
+"tpmin": null
+},
 {
 "guid": 1010238,
 "residents": 6,
@@ -16320,6 +16347,16 @@ params=
 "guid": 1010217,
 "residents": 4,
 "tpmin": 0.00034188
+},
+{
+"guid": 120037,
+"happiness": 5,
+"residents": 0,
+"tpmin": 0.000888888,
+"unlockCondition": {
+"amount": 1500,
+"populationLevel": 15000002
+}
 },
 {
 "guid": 1010206,
@@ -16373,7 +16410,7 @@ params=
 "residence": 1010345
 },
 {
-"fullHouse": 40,
+"fullHouse": 50,
 "guid": 15000003,
 "iconPath": "data/ui/2kimages/main/3dicons/resident/icon_resident_engineer.png",
 "locaText": {
@@ -16393,6 +16430,60 @@ params=
 },
 "name": "Engineers",
 "needs": [
+{
+"guid": 120020,
+"residents": 1,
+"tpmin": null
+},
+{
+"guid": 1010200,
+"residents": 1,
+"tpmin": 0.0011111112000000006
+},
+{
+"guid": 1010216,
+"happiness": 2,
+"residents": 0,
+"tpmin": 0.0014814826666666672
+},
+{
+"guid": 1010237,
+"residents": 1,
+"tpmin": 0.000512821
+},
+{
+"guid": 1010349,
+"happiness": 6,
+"residents": 0,
+"tpmin": null
+},
+{
+"guid": 1010238,
+"residents": 1,
+"tpmin": 0.001333334
+},
+{
+"guid": 1010213,
+"residents": 2,
+"tpmin": 0.001212122
+},
+{
+"guid": 1010350,
+"happiness": 2,
+"residents": 0,
+"tpmin": null
+},
+{
+"guid": 1010203,
+"residents": 4,
+"tpmin": 0.000555556
+},
+{
+"guid": 1010214,
+"happiness": 3,
+"residents": 0,
+"tpmin": 0.001025642
+},        
 {
 "guid": 1010217,
 "residents": 12,
@@ -16419,6 +16510,12 @@ params=
 "guid": 1010247,
 "residents": 6,
 "tpmin": 0.0013333335
+},
+{
+"guid": 120037,
+"happiness": 5,
+"residents": 0,
+"tpmin": 0.000888888
 },
 {
 "guid": 1010353,
