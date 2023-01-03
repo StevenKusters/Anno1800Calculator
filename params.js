@@ -17027,7 +17027,7 @@ params=
 },
 {
 "guid": 120035,
-"residents": 4,
+"residents": 3,
 "tpmin": 0.00142857
 },
 {
@@ -17051,7 +17051,7 @@ params=
 },
 {
 "guid": 120037,
-"residents": 3,
+"residents": 2,
 "tpmin": 0.001333332,
 "unlockCondition": {
 "amount": 600,
